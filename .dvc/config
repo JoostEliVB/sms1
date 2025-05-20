@@ -1,6 +1,3 @@
 [core]
     analytics = false
-    remote = mylocalremote
     autostage = true
-['remote "mylocalremote"']
-    url = /home/joost/remotedvc
